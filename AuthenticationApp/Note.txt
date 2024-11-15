@@ -1,0 +1,1 @@
+I’d like to clarify that if neither a division nor an OU is selected, the admin has been deliberately excluded from the list, as the admin user is included in all divisions and OUs.

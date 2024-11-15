@@ -1,0 +1,29 @@
+/* src/index.css */
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    background-color: #f8f9fa;
+  }
+  
+
+
+.button-group {
+  display: flex;
+  align-items: center;
+}
+
+.button-group button {
+  margin-right: 10px;
+}
+
+.button-group .unassign-button {
+  background-color: red;
+  border-color: red;
+  color: white;
+}
+
+.button-group .unassign-button:hover {
+  background-color: darkred;
+  border-color: darkred;
+}
+ 
